@@ -15,6 +15,6 @@
 * [计算机基础](pc-base/README.md)
   * [Office](pc-base/office.md)
 * [应用文与写作](writing.md)
-* [📚常见问题](help.md)
+* [常见问题](help.md)
 * [关于我们](about.md)
 
