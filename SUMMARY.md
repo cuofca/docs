@@ -1,6 +1,6 @@
 # Table of contents
 
-* [计算机协会资料库简介](README.md)
+* [简介](README.md)
 * [软件开发](software-development.md)
 * [软件交互](software-interaction.md)
 * [电子商务](ec.md)
