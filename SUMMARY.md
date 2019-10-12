@@ -1,10 +1,11 @@
 # Table of contents
 
 * [目录](README.md)
-* [计算机文档](computer-document/README.md)
-  * [计算机基础](computer-document/fundamentals-of-computer/README.md)
-    * [Office](computer-document/fundamentals-of-computer/office.md)
-* [语文](chineses.md)
-* [数学](mathematics.md)
-* [英语](englishs.md)
+* [软件开发](software-development.md)
+* [软件交互](software-interaction.md)
+* [电子商务](ec.md)
+* [环境艺术设计](environmental-art-design.md)
+* [建筑工程](constructional-engineering.md)
+* [会计](accountant.md)
+* [经济管理](economic-administration.md)
 
