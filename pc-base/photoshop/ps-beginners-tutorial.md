@@ -4,8 +4,7 @@
 
 # 视频教程
 
-<iframe height="450" width="100%" src="https://dev.onti.net/down/CDN/Files/2019/10/13/ps%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.mp4" frameborder=0 allowfullscreen>
-</iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" src="https://dev.onti.net/down/CDN/Files/2019/10/13/ps%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.mp4"></iframe>
 
 # 图片教程演示开始
 
