@@ -2,9 +2,7 @@
 
 ![](https://github.com/cuofca/docs/raw/master/.gitbook/assets/qq-jie-tu-20191012231158.png)
 
-####<center>[点我下载源文件]([点我下载源文件](https://dev.onti.net/down/CDN/Files/2019/10/13/%E3%80%8A%E5%9B%BD%E5%AE%B6%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BA%8C%E7%BA%A7c%E8%AF%AD%E8%A8%80%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88%E3%80%8B.doc> "点我下载源文件")</center>
-
-<center>9月全国计算机等级考试二级笔试试卷</center>
+#### <center> [点我下载源文件]([点我下载源文件](https://dev.onti.net/down/CDN/Files/2019/10/13/%E3%80%8A%E5%9B%BD%E5%AE%B6%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BA%8C%E7%BA%A7c%E8%AF%AD%E8%A8%80%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88%E3%80%8B.doc> "点我下载源文件") </center>
 
 <center>C语言程序设计</center>
 
@@ -6078,4 +6076,3 @@ return m;
 9、54321
 10、k\&lt;=n
 11、k++**
-
