@@ -17,6 +17,7 @@
   * [计算机等级](university-research/ncre/README.md)
     * [国家计算机二级c语言历年真题及答案](university-research/ncre/guo-jia-ji-suan-ji-er-jicyu-yan-li-nian-zhen-ti-ji-da-an.md)
   * [大学英语等级](university-research/cet/README.md)
+    * [大学英语四级阅读练习2](university-research/cet/cet-4-reading-practice-2.md)
     * [大学英语四级优秀作文](university-research/cet/cet-4-excellent-composition.md)
     * [大学英语四级复习资料·骨灰级整理版](university-research/cet/college-english-test-band-4-review-materials.md)
     * [大学英语四级必背单词词汇表](university-research/cet/vocabulary-for-college-english-test-band-4.md)
