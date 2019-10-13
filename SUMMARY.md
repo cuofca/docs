@@ -9,6 +9,8 @@
 * [会计](accountant.md)
 * [经济管理](economic-administration.md)
 * [大学考证](university-research/README.md)
+  * [PhotoShop](university-research/photoshop/README.md)
+    * [ps新手入门教程](university-research/photoshop/ps-beginners-tutorial.md)
   * [计算机等级](university-research/ncre/README.md)
     * [国家计算机二级c语言历年真题及答案](university-research/ncre/guo-jia-ji-suan-ji-er-jicyu-yan-li-nian-zhen-ti-ji-da-an.md)
   * [大学英语等级](university-research/cet/README.md)
