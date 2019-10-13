@@ -4,7 +4,9 @@
 
 # 视频教程
 
-[![asciicast](https://dev.onti.net/view/CDN/Imgs/2019/10/13/ps%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/%E5%B9%BB%E7%81%AF%E7%89%871.JPG)](https://dev.onti.net/down/CDN/Files/2019/10/13/ps%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.mp4)
+<video id="video" controls="" preload="none" width="100%">
+	<source id="mp4" src="https://dev.onti.net/down/CDN/Files/2019/10/13/ps%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.mp4" type="video/mp4">
+</video>
 
 # 图片教程演示开始
 
