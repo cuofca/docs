@@ -1,4 +1,4 @@
-# Table of contents
+# 目录
 
 * [简介](README.md)
 * [软件开发](software-development.md)
