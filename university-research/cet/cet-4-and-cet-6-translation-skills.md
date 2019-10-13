@@ -1,6 +1,6 @@
 # cet-四六级翻译技巧
 
-### <center> [源文件下载](https://dev.onti.net/down/CDN/Files/2019/10/13/cet-%E5%9B%9B%E5%85%AD%E7%BA%A7%E7%BF%BB%E8%AF%91%E6%8A%80%E5%B7%A7.docx "源文件下载") </center>
+### [源文件下载](https://dev.onti.net/down/CDN/Files/2019/10/13/cet-%E5%9B%9B%E5%85%AD%E7%BA%A7%E7%BF%BB%E8%AF%91%E6%8A%80%E5%B7%A7.docx "源文件下载")
 
 # 第一章 **CET-6概说**
 
