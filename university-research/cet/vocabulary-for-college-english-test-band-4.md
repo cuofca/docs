@@ -1,18 +1,12 @@
 # 大学英语四级必背单词词汇表
 
 {% tabs %}
-{% tab title="在线预览" %}
-## [点我在线预览(大学英语四级必背单词词汇表)](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fjxjjxy-my.sharepoint.com%2Fpersonal%2Fon_mail_mzr_me%2F_layouts%2F15%2Fdownload.aspx%3FUniqueId%3D180b7a11-a8e5-4862-9f87-6fb479b0beba%26Translate%3Dfalse%26tempauth%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvanhqanh5LW15LnNoYXJlcG9pbnQuY29tQDFjZGYxZDdjLWNhODUtNDVjNy1iMWE2LTBkMTk3YWEwN2RjNSIsImlzcyI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMCIsIm5iZiI6IjE1NzA5NzI1MjQiLCJleHAiOiIxNTcwOTc2MTI0IiwiZW5kcG9pbnR1cmwiOiJKSEZDQ1ViTWw5Z3MrbWtFNVRmZmk2dlJJWS9UQUtBN0VkTkxwWTVuMUZVPSIsImVuZHBvaW50dXJsTGVuZ3RoIjoiMTQ0IiwiaXNsb29wYmFjayI6IlRydWUiLCJjaWQiOiJObVUxWXpabVkyRXRaR1V4WmkwMFpEazVMV0UxT1dJdFlXRmlOemc0TXpVNVkyRTIiLCJ2ZXIiOiJoYXNoZWRwcm9vZnRva2VuIiwic2l0ZWlkIjoiTjJVeFpXWTRaVGt0TkdVd015MDBOakpoTFRobU1Ea3ROVFl5T0RZM05ESTRabVEwIiwiYXBwX2Rpc3BsYXluYW1lIjoiT0xBSU5ERVgiLCJnaXZlbl9uYW1lIjoi5rC46L6JIiwiZmFtaWx5X25hbWUiOiLpn6kiLCJzaWduaW5fc3RhdGUiOiJbXCJrbXNpXCJdIiwiYXBwaWQiOiI0NGU4YzdkZC02YTdhLTQ4YWMtYWIwZC04YWU4NWQyYWI3YTUiLCJ0aWQiOiIxY2RmMWQ3Yy1jYTg1LTQ1YzctYjFhNi0wZDE5N2FhMDdkYzUiLCJ1cG4iOiJvbkBtYWlsLm16ci5tZSIsInB1aWQiOiIxMDAzN0ZGRUFFQkY5OURFIiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MTAwMzdmZmVhZWJmOTlkZUBsaXZlLmNvbSIsInNjcCI6ImFsbGZpbGVzLndyaXRlIGFsbHByb2ZpbGVzLnJlYWQiLCJ0dCI6IjIiLCJ1c2VQZXJzaXN0ZW50Q29va2llIjpudWxsfQ.TDdKU25OWDltMGhuSVNtZlpiTFhHc3NhMTd4ZW9GMldtcEVJYmxFbkhiOD0%26ApiVersion%3D2.0)
-{% endtab %}
-
 {% tab title="在线下载" %}
 ## [点我在线下载(大学英语四级必背单词词汇表)](https://dev.onti.net/down/CDN/Files/2019/10/13/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E5%BF%85%E8%83%8C%E5%8D%95%E8%AF%8D%E8%AF%8D%E6%B1%87%E8%A1%A8.doc)
 {% endtab %}
 {% endtabs %}
 
-## (大学英语四级必背单词词汇表)在线图文教程：如下↓
-
-###大学英语四级词汇表
+## 大学英语四级词汇表
 
 abandon vt.丢弃；放弃，抛弃
 ability n.能力；能耐，本领
