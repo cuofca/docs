@@ -20,6 +20,7 @@
     * [cet-四六级翻译技巧](university-research/cet/cet-4-and-cet-6-translation-skills.md)
     * [四六级必备基础词](university-research/cet/cet-4-6-basic-words.md)
 * [计算机基础](pc-base/README.md)
+  * [大学计算机基础超详细知识点](pc-base/university-computer-foundation-super-detailed-knowledge-point.md)
   * [PhotoShop](pc-base/photoshop/README.md)
     * [ps新手入门教程](pc-base/photoshop/ps-beginners-tutorial.md)
   * [Office](pc-base/office/README.md)
