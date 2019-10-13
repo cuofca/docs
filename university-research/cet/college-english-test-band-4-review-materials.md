@@ -13,7 +13,7 @@
 
 ## 第一部分.听力部分
 
-###一、听力内容
+### 一、听力内容
 
 1．Section A 对话
 
@@ -51,19 +51,19 @@ Directions： 45秒
 
 （以上时间根据文章内容会有所变化）
 
-###二、听力技巧
+### 二、听力技巧
 
 四级听力一直困扰着我们每一位考生，听不懂磁带中的内容是什么，不知道该如何选择，而听力在英语四级考试中又占很大一部分比重，掌握好英语四级听力技巧才能快速提高英语成绩，以下总结出几点有关英语四级听力技巧。
 
-####听力技巧一：学会取舍，理解内容
+#### 听力技巧一：学会取舍，理解内容
 
 听力考试中最忌讳的就是词词计较，力求听懂所有词。其实，听懂所有词首先没必要，其次也不可能。我们在日常生活中听中文时，无论听什么，注意力都不会在每一个字或词上面，而是对文段或对话内容的整体的理解上。何况我们听的是英文，在英文句子中，对不同的词本身就有弱读和重读。
 
-####听力技巧二：扫视材料，预测内容
+#### 听力技巧二：扫视材料，预测内容
 
 当广播中朗读听力要求时，我们要充分利用这个时间，迅速扫视书面文字中的题干及选项，通过扫视联系上下文，有根据地预测文段发生的时间、场所、人物，并预测出谈话的大致内容。并且，在扫视中我们对提出的问题尤其要注意。这样做的结果是听录音时我们可以有的放矢，做到有备而来，心中有数。
 
-####听力技巧三：注重首句，抓住主旨
+#### 听力技巧三：注重首句，抓住主旨
 
 在听长文段时，由于信息多，而且听力不同于阅读，朗读速度非常快，需要我们快速做出反应，所以在听的时候就更应当注意主旨大意。在阅读中我们知道作者一般会在首句或首段道出文段的中心大意、或对所阐述内容进行概括，有些作者也会在结尾时再一次点题。文段中间部分主要是细节，或是作者为了证实自己的观点，进一步举出例证，这一部分基本上是事实或是细节。了解了这个特点后，我们在听录音材料时就可以有目的地听。如果为了解答主旨问题就要着眼于首句，如果为了回答细节问题就要注意中间部分。
 
@@ -71,7 +71,7 @@ Directions： 45秒
 
 长文段听力中细节很多，所以只靠脑子记忆确实有困难。我们在做长文段听力时可以做一些简单的记录。这种记录要非常简练，要记重要环节。如文中提及的人物、事件、时间、地点、原因、方式、程度、数字、选择等信息都非常重要。笔记要提纲挈领，达到帮助记忆、推断和答题的目的即可。记录的方法多种多样。可以使用符号、画图、缩写形式等，只要自己能辨认就可以了。
 
-####听力技巧五：连贯记忆，准确推理
+#### 听力技巧五：连贯记忆，准确推理
 
 听录音时，既要不断输入、理解、存贮信息，又要不打断听的过程；既要集中精力听，又要用心记；紧扣话题，把握说话者的思路，捕捉信号词，连贯记忆主要信息。听完试题后，要前后联系，利用后面听到的信息补充前面漏听的或有疑问的信息，并对听前、听中的预测和判断加以推理、分析、修正，以使理解的准确性更高。最后提醒大家，在做听力考试试题时，要消除紧张情绪，集中注意力。听力考试对我们不仅仅是听的能力的考查，同时是对我们心理素质的测验。所以在做听力题前要放松自己的情绪，以愉快轻松的状态应对考试。只要我们加强训练，训练得法，掌握一些必要的应试技巧就能够在高考听力中取得高分。
 
@@ -193,7 +193,7 @@ nope.(升调)=no./ But. / Are you kidding? / Are you joking? / Are you serious? 
 
 考查方式：一共3篇短文，10个问题。每篇短文念一遍，结束之后提出问题。
 
-####1．文章类型
+#### 1．文章类型
 
  (1) 介绍性
 
@@ -205,7 +205,7 @@ nope.(升调)=no./ But. / Are you kidding? / Are you joking? / Are you serious? 
 
  (3) 对比性my opinion.讲述我的观点。
 
-####2．解题思路
+#### 2．解题思路
 
 (1)结构
 
@@ -213,7 +213,7 @@ nope.(升调)=no./ But. / Are you kidding? / Are you joking? / Are you serious? 
 
 (3)思维
 
-####3．解题步骤
+#### 3．解题步骤
 
  (1) 听之前看选项
 
@@ -257,7 +257,7 @@ but, however也会出考题。
 
 如果没听清楚文章内容，就必须听清楚题目问什么，然后用common sense常识来判断正误
 
-####4．题型
+#### 4．题型
 
 (1）主观态度题：讲facts,选正态度（就是说，选一个积极的，赞扬的，好的态度）。
 
@@ -291,7 +291,7 @@ interesting=stimulating=fascinating=exciting
 
 b.反义词
 
-###五、复合式听写
+### 五、复合式听写
 
 考查方式：一篇文章一共10个空，1-7空为单词听写，8-10空为句子听写。
 
@@ -386,7 +386,7 @@ b  短单词容易和同音异义词混淆，检查时要和上下文连起来�
 
 ### 八、短对话的常见场景
 
-#### （一）.社会生活类
+####  （一）.社会生活类
 
 1、购物消费：
 
@@ -522,7 +522,7 @@ install 安装；                              maintenance man/technician 维修
 
 air conditioner 空调
 
-####（二）.学校生活类
+#### （二）.学校生活类
 
 1、注册：
 
@@ -654,7 +654,7 @@ the student union 学生会；                 chairman 主席
 
 candidate 候选人
 
-####（三）、求职面试
+#### （三）、求职面试
 
 1、求职面试
 
@@ -746,7 +746,7 @@ achievement 成就；                   contribution 贡献
 
 deserve 值得，应得；                 worthy 值得的
 
-####（四）.科普知识类
+#### （四）.科普知识类
 
 1、生物,生态：
 
@@ -838,7 +838,7 @@ advance technology 先进技术；          printer 打印机
 
 copying machine 复印机                photocopying machine 影印机
 
-####（五）、社会问题类
+#### （五）、社会问题类
 
 1、环境问题
 
@@ -930,7 +930,7 @@ CEO (chief executive officer）首席执行官     GDP (gross domestic product)�
 
 GNP (gross national product) 国民生产总值
 
-####（六）、文化习俗类
+#### （六）、文化习俗类
 
 1、文化艺术：
 
@@ -984,7 +984,7 @@ bridesmaid 伴娘；                         best man 伴郎；
 
 engagement 订婚；
 
-####（七）、旅游交通类：
+#### （七）、旅游交通类：
 
 1、火车
 
@@ -1088,7 +1088,7 @@ beyond description 难以描述；                press the shutter 按快门；
 
 run out of film 胶卷用完了；                  broaden one&#39;s horizon 开拓眼界；
 
-####（八）、医疗健康类
+#### （八）、医疗健康类
 
 1、疾病和症状
 
@@ -2115,9 +2115,9 @@ F、比较结构 more……than 在more之后才是重点 , less……than 在th
 	
 ## 第四部分.完形填空做题技巧
 
-###一、完型填空
+### 一、完型填空
 
-####（一）做题技巧和步骤
+#### （一）做题技巧和步骤
 
 I．做题步骤：1、通读全文，了解文章大意；文章两种模式：总分、对比；2、初选答案（排除法、优选法）；3、寻找线索；4、回头补缺；5、核实答案。
 
@@ -2213,7 +2213,7 @@ either…or…;  neither…nor…;  too…to…;  so…that…;  not…until…;
 
 ## 第五部分.翻译经典练习
 
-###一、翻译经典练习（认真分析横线之间的翻译）
+### 一、翻译经典练习（认真分析横线之间的翻译）
 
 1．I have had great deal of trouble\_\_keeping up with the rest of the class.\_\_.(跟得上班上的其他同学)
 
@@ -2327,7 +2327,7 @@ either…or…;  neither…nor…;  too…to…;  so…that…;  not…until…;
 
 ## 第六部分.写作七类精彩句型
 
-###一、比较
+### 一、比较
 
 1.The advantages far outweigh the disadvantages.
 
@@ -2359,7 +2359,7 @@ either…or…;  neither…nor…;  too…to…;  so…that…;  not…until…;
 
 15. It is true that A ... , but the chief faults (obvious defects )are ...
 
-###二、原因
+### 二、原因
 
 1.A number of factors are accountable for this situation.
 
@@ -2385,7 +2385,7 @@ either…or…;  neither…nor…;  too…to…;  so…that…;  not…until…;
 
 But the fundamental cause is that ...
 
-###三、后果
+### 三、后果
 
 1. It may give rise to a host of problems.
 
@@ -2395,7 +2395,7 @@ But the fundamental cause is that ...
 
 4. Its consequence can be so great that...
 
-###四、批驳
+### 四、批驳
 
 1)It is true that ..., but one vital point is being left out.
 
@@ -2415,7 +2415,7 @@ But the fundamental cause is that ...
 
 9) Contrary to what is widely accepted, I maintain that ...
 
-###五、举例
+### 五、举例
 
 1) A good case in point is ...
 
@@ -2425,7 +2425,7 @@ But the fundamental cause is that ...
 
 4) ...is often cited as an example.
 
-###六、证明
+### 六、证明
 
 1) No one can deny the fact that ...
 
@@ -2439,7 +2439,7 @@ But the fundamental cause is that ...
 
 6) According to statistics proved by ..., it can be seen that ...
 
-###七 、开篇
+### 七 、开篇
 
 1) Many nations have been faced with the problem of ...
 
@@ -2447,7 +2447,7 @@ But the fundamental cause is that ...
 
 ## 第七部分.写作必备模板和句型
 
-###（一）综合运用篇
+### （一）综合运用篇
 
 Along with the advance of the society more and more problems are brought to our attention, one of which is that….
 
@@ -2497,7 +2497,7 @@ Now we are entering a new era, full of opportunities and challenges
 
 现在我们正在进入一个充满机会和挑战的新时代。
 
-###（二）展现问题篇
+### （二）展现问题篇
 
 问题的常用词：question, problem, issue
 
@@ -2653,7 +2653,7 @@ At the risk of sounding too direct , I prefer to…
 
 倒装句
 
-###一、倒装句
+### 一、倒装句
 
  1. So + 形容词 + be + 主词 + that + 句子（如此…以至于…）
 
@@ -2679,7 +2679,7 @@ v by no means = in no way = on no account一点也不
 
 【例】Then began a bitter war between the two countries.  于是两国之间开始了恶战。只将助动词（包括情态动词）移至主语之前，叫做部分倒装（partial inversion）。At no time can the entrance be left unguarded.  入口需要随时有人把守。
 
-###二、四级必考句型
+### 二、四级必考句型
 
 (1) Among the disadvantages that        may bring to       are that + S. + V., making + n. + adj.
 
@@ -2705,9 +2705,9 @@ v by no means = in no way = on no account一点也不
 
 3) Try as you may, you will never succeed. （你尽管可以试，但决不会成功）。
 
-###三、练习
+### 三、练习
 
- ####A、翻译
+ #### A、翻译
 
 1. 至于计算机化的影响，没有什么地方比银行能更清楚地看到其成果。
 
@@ -2729,7 +2729,7 @@ v by no means = in no way = on no account一点也不
 
 10. 只有当研究者获得充分的数据，他们才能得出一个正确的结论。
 
-####【参考答案】
+#### 【参考答案】
 
 1. As for the influence of computerization, nowhere have we seen the results more clearly than in the bank.
 
@@ -2775,7 +2775,7 @@ v by no means = in no way = on no account一点也不
 
 10. No sooner had he drunk the coffee when he began to feel drowsy.
 
-####【参考答案】
+#### 【参考答案】
 
 1. they had—had they 2. we should—should we  3. it leaves—does it leave
 
@@ -2785,7 +2785,7 @@ v by no means = in no way = on no account一点也不
 
 10. when—than
 
-###四、伟人伟招
+### 四、伟人伟招
 
 1. 英勇无畏式
 
@@ -2811,7 +2811,7 @@ The important thing in life is to have a great aim, and also the determination t
 
 【点评】我们可以从歌德的话语里面，学到一个很好的句型：The important thing is to…, 不妨进一步学一个四级里面另两个更受欢迎的句型：(1) Nothing is + (adj).er than to + V. + …    Nothing is + more + 形容词 + than to + V. + …    【例】Nothing is more important than to receive education.  没有比接受教育更重要的事。(2) What a + adj. + n. + S. + V.!= How + adj. + a + n. + V.!（多么…！） What an important thing it is to keep our promise!  How important a thing it is to keep our promise!遵守诺言是多么重要的事！
 
-###五、实践与提高
+### 五、实践与提高
 
 用下列给出的句型造句：
 
@@ -2835,9 +2835,9 @@ The important thing in life is to have a great aim, and also the determination t
 
 10. In all the discussion and debate over…, one  important  fact is generally overlooked
 
-###强调句
+### 强调句
 
-####一、强调句精彩套句展示
+#### 一、强调句精彩套句展示
 
 It is universally acknowledged that + 句子（全世界都知道…）
 
@@ -2859,7 +2859,7 @@ It is apparent that + 句子（显然的）
 
 It is conceivable that knowledge plays an important role in our life.  可想而知，知识在我们的一生中扮演一个重要的角色。
 
-####二、语法精讲
+#### 二、语法精讲
 
 1. 简介
 
@@ -2921,7 +2921,7 @@ It is conceivable that knowledge plays an important role in our life.  可想而
 
 It is only when you nearly lose someone that you become fully conscious of how much you value him.
 
-####三、练习与进步
+#### 三、练习与进步
 
 A. 翻译
 
@@ -3007,7 +3007,7 @@ A. 翻译
 
 8. be—is       9. that—when
 
-  ####四、伟人伟招    
+  #### 四、伟人伟招    
 
  1. 百折不挠式
 
@@ -3025,7 +3025,7 @@ A. 翻译
 
 【点评】歌德之才，恐非我辈能及，但大师的语言却给我们无穷的灵感。表示&quot;形成&quot;记着用&quot;is formed in&quot;，简单之处见真章。
 
-####五、实践与进步
+#### 五、实践与进步
 
     用下列给出的句型造句：
 
@@ -3055,9 +3055,9 @@ A. 翻译
 
 
 
-###省 略 句    
+### 省 略 句    
 
- ####一、四级精彩套句展示
+ #### 一、四级精彩套句展示
 
     It is necessary that effective actions be taken to prevent this problem.
 
@@ -3065,7 +3065,7 @@ A. 翻译
 
 又如：It is hoped that great efforts should be directed to (expended on / focused on) finding (developing / improving)…中的should也可省略。
 
- ####二、语法精讲
+ #### 二、语法精讲
 
    1. 简介    
 
@@ -3091,7 +3091,7 @@ A. 翻译
 
 【分析】as though引导方式状语从句，谓语常用虚拟语气，本句中主句的主语与从句的主语相同，故从句中的主语和谓语省略，即省略了she wanted；如果补全，即为：as though she wanted to go out of the office.
 
-####三、练习与进步
+#### 三、练习与进步
 
     A. 翻译
 
@@ -3191,7 +3191,7 @@ minds of our grandfathers than do the major issues of the last century.
 
 9. which—what  10. on—into
 
-####四、伟人伟招
+#### 四、伟人伟招
 
  1. 以退为进式    
 
@@ -3221,7 +3221,7 @@ Nothing but determination will get us through this.
 
 【点评】这是正反论述文的经典句型。前面的观点是你反对的，后面的是你所支持的。例如在文章的最后一段可以这样写：Don&#39;t be afraid that we won&#39;t succeed in solving this problem; it is more important to know we are doing our best. 这样，20多个单词就毫不费力地写出来了。
 
-####五、实践与进步
+#### 五、实践与进步
 
     将下面的句子补充完整
 
@@ -3253,9 +3253,9 @@ Nothing but determination will get us through this.
 
 
 
-###并 列 句
+### 并 列 句
 
-####一、四级精彩套句展示
+#### 一、四级精彩套句展示
 
     I like traveling, and I will do my best to share the fun of traveling with others.
 
@@ -3263,7 +3263,7 @@ Nothing but determination will get us through this.
 
 以and, or, but等连接的简单句，掌握熟练的话，会让我们的文章流畅自然。
 
-####二、语法精讲    
+#### 二、语法精讲    
 
     1. 简介    
 
@@ -3279,7 +3279,7 @@ Nothing but determination will get us through this.
 
 【分析】&quot;命令式+or&quot;句式表示&quot;你要…否则…&quot;或&quot;否则的话&quot;等意思。
 
-####三、练习与进步
+#### 三、练习与进步
 
     A. 翻译
 
@@ -3359,7 +3359,7 @@ Nothing but determination will get us through this.
 
 6. be去掉  7. or—and  8. in—from 9. will—will be  10. or—and
 
-####四、伟人伟招
+#### 四、伟人伟招
 
    1. 向前看，向右看式    
 
@@ -3379,7 +3379,7 @@ Nothing but determination will get us through this.
 
 【点评】该句用来论述个人应该为社会减负的问题时，可谓是恰到好处。
 
- ####五、实践与进步
+ #### 五、实践与进步
 
     将下面的句子补完整
 
@@ -3411,7 +3411,7 @@ Nothing but determination will get us through this.
 
   ###  句子的连接    
 
-####一、四级精彩句型展示
+#### 一、四级精彩句型展示
 
     　　1. The reason why + 句子 … is that + 句子（…的原因是…）
 
@@ -3431,7 +3431,7 @@ Nothing but determination will get us through this.
 
     　　连接在写作中是很重要的，就像自行车的链条，它的好坏会直接影响速度和行驶距离。连接于写作就如我们身体的水，没有水就没有生命，没有好的连接，相应的也不会有精彩的作文问世。
 
-####二、语法精讲
+#### 二、语法精讲
 
  　 　1. 简介    
 
@@ -3463,7 +3463,7 @@ Nothing but determination will get us through this.
 
     　　She has no close friends other than me. 她除了我以外从没有别的好朋友。
 
-###三、练习与进步
+### 三、练习与进步
 
     　　A. 翻译
 
@@ -3559,7 +3559,7 @@ Nothing but determination will get us through this.
 
     　　8. how―what 9. since―when 10. had―have
 
-####四、伟人伟招
+#### 四、伟人伟招
 
      　　1. 摔倒了再爬起来式    
 
@@ -3585,7 +3585,7 @@ Nothing but determination will get us through this.
 
     　　【点评】这几个小短语的连用很显英文实力，&quot;get on, get up and look for&quot;简单但组合后却很不一般，这个句子是个很好的例子。
 
-####五、实践与提高
+#### 五、实践与提高
 
     　　将下面的句子补充完整：
 
@@ -3621,9 +3621,9 @@ Nothing but determination will get us through this.
 
     　　10. Unless there is a common realization of …, it is very likely that…
 
-###其他经典句型 （1）  
+### 其他经典句型 （1）  
 
-####一、经典句型展示
+#### 一、经典句型展示
 
     　　1. I am all but ready. 我几乎准备好了。
 
@@ -3641,7 +3641,7 @@ Nothing but determination will get us through this.
 
     　　【分析】at that放于句尾表示强调
 
-####二、练习与进步
+#### 二、练习与进步
 
     　　A. 翻译
 
@@ -3721,7 +3721,7 @@ Nothing but determination will get us through this.
 
     　　8. that―when 9. nothing―anything 10. used―used to
 
-####三、伟人伟招
+#### 三、伟人伟招
 
   　　1. 协力成功式    
 
@@ -3921,9 +3921,9 @@ Nothing but determination will get us through this.
 
     　　
 
- ###其他经典句型（3）    
+ ### 其他经典句型（3）    
 
-#### 一、经典句型展示
+####  一、经典句型展示
 
     　　1. They say that she is a movie star. 据说她是个电影明星。
 
@@ -4259,7 +4259,7 @@ Nothing but determination will get us through this.
 
     　　我们再怎么强调保护眼睛的重要性也不为过。
 
-####四、实践与提高
+#### 四、实践与提高
 
     　　补充练习：将下列句子翻成汉语，注意总结句子结构。
 
@@ -5010,7 +5010,7 @@ Some people may be addicted to netsurfing, which impairs people&#39;s physical a
 
 ## 第十部分.英语谚语警句
 
-###Proverbs are the daughters of daily experience. 谚语是日常经验的结晶。
+### Proverbs are the daughters of daily experience. 谚语是日常经验的结晶。
 
 1. Look before you leap./Second thoughts are best. 三思而后行。/再想而后行。
 
