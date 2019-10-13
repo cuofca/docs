@@ -1,6 +1,14 @@
 # cet-四六级翻译技巧
 
-### [cet-四六级翻译技巧源文件下载](https://dev.onti.net/down/CDN/Files/2019/10/13/cet-%E5%9B%9B%E5%85%AD%E7%BA%A7%E7%BF%BB%E8%AF%91%E6%8A%80%E5%B7%A7.docx)
+{% tabs %}
+{% tab title="在线预览" %}
+## [点我在线预览(cet-四六级翻译技巧)](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fjxjjxy-my.sharepoint.com%2Fpersonal%2Fon_mail_mzr_me%2F_layouts%2F15%2Fdownload.aspx%3FUniqueId%3Db0d73542-657b-4452-8c13-30b1849e8635%26Translate%3Dfalse%26tempauth%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvanhqanh5LW15LnNoYXJlcG9pbnQuY29tQDFjZGYxZDdjLWNhODUtNDVjNy1iMWE2LTBkMTk3YWEwN2RjNSIsImlzcyI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMCIsIm5iZiI6IjE1NzA5NjYyNzEiLCJleHAiOiIxNTcwOTY5ODcxIiwiZW5kcG9pbnR1cmwiOiJXYXVtdUJURHhqekxXL2lKVEhZVGh2ekw1UlFNR3hIQUxTQ3VLaWhZa0pFPSIsImVuZHBvaW50dXJsTGVuZ3RoIjoiMTQ0IiwiaXNsb29wYmFjayI6IlRydWUiLCJjaWQiOiJOVGswT1RoalpHVXRNREUwTXkwME16ZGtMVGt4TWpBdE1UazVOelJoT1dOalkySTUiLCJ2ZXIiOiJoYXNoZWRwcm9vZnRva2VuIiwic2l0ZWlkIjoiTjJVeFpXWTRaVGt0TkdVd015MDBOakpoTFRobU1Ea3ROVFl5T0RZM05ESTRabVEwIiwiYXBwX2Rpc3BsYXluYW1lIjoiT0xBSU5ERVgiLCJnaXZlbl9uYW1lIjoi5rC46L6JIiwiZmFtaWx5X25hbWUiOiLpn6kiLCJzaWduaW5fc3RhdGUiOiJbXCJrbXNpXCJdIiwiYXBwaWQiOiI0NGU4YzdkZC02YTdhLTQ4YWMtYWIwZC04YWU4NWQyYWI3YTUiLCJ0aWQiOiIxY2RmMWQ3Yy1jYTg1LTQ1YzctYjFhNi0wZDE5N2FhMDdkYzUiLCJ1cG4iOiJvbkBtYWlsLm16ci5tZSIsInB1aWQiOiIxMDAzN0ZGRUFFQkY5OURFIiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MTAwMzdmZmVhZWJmOTlkZUBsaXZlLmNvbSIsInNjcCI6ImFsbGZpbGVzLndyaXRlIGFsbHByb2ZpbGVzLnJlYWQiLCJ0dCI6IjIiLCJ1c2VQZXJzaXN0ZW50Q29va2llIjpudWxsfQ.NTRqKzBKdmdmRm5tQUhTOThIWWVtV2VBKzh6MTZ3UEw0K0NqK0VnL0xOdz0%26ApiVersion%3D2.0)
+{% endtab %}
+
+{% tab title="在线下载" %}
+## [点我在线下载(cet-四六级翻译技巧)](https://dev.onti.net/down/CDN/Files/2019/10/13/cet-%E5%9B%9B%E5%85%AD%E7%BA%A7%E7%BF%BB%E8%AF%91%E6%8A%80%E5%B7%A7.docx)
+{% endtab %}
+{% endtabs %}
 
 ## 第一章 **CET-6概说**
 
