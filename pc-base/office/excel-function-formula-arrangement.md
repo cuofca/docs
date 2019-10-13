@@ -1,6 +1,14 @@
 # Excel函数公式整理
 
-## [Excel函数公式整理源文件下载](https://dev.onti.net/down/CDN/Files/2019/10/13/Excel%E5%87%BD%E6%95%B0%E5%85%AC%E5%BC%8F%E6%95%B4%E7%90%86%20%281%29%281%29.docx)
+{% tabs %}
+{% tab title="在线预览" %}
+## [点我在线预览(Excel函数公式整理)](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fjxjjxy-my.sharepoint.com%2Fpersonal%2Fon_mail_mzr_me%2F_layouts%2F15%2Fdownload.aspx%3FUniqueId%3D4ced169a-a44f-4e06-a76b-8d664c185673%26Translate%3Dfalse%26tempauth%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvanhqanh5LW15LnNoYXJlcG9pbnQuY29tQDFjZGYxZDdjLWNhODUtNDVjNy1iMWE2LTBkMTk3YWEwN2RjNSIsImlzcyI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMCIsIm5iZiI6IjE1NzA5NjQ4NzciLCJleHAiOiIxNTcwOTY4NDc3IiwiZW5kcG9pbnR1cmwiOiJDMTZ3cGRJVGVtcWtTSFJoR0Z3TjIvOU9tTFJ3ZC91ZUNndmx1bVAxTjVZPSIsImVuZHBvaW50dXJsTGVuZ3RoIjoiMTQ0IiwiaXNsb29wYmFjayI6IlRydWUiLCJjaWQiOiJOVEkzWmpsaU9UQXRNakkwTUMwMFl6azJMVGxtWW1RdE5qRTRNV05rTTJKa05EbG0iLCJ2ZXIiOiJoYXNoZWRwcm9vZnRva2VuIiwic2l0ZWlkIjoiTjJVeFpXWTRaVGt0TkdVd015MDBOakpoTFRobU1Ea3ROVFl5T0RZM05ESTRabVEwIiwiYXBwX2Rpc3BsYXluYW1lIjoiT0xBSU5ERVgiLCJnaXZlbl9uYW1lIjoi5rC46L6JIiwiZmFtaWx5X25hbWUiOiLpn6kiLCJzaWduaW5fc3RhdGUiOiJbXCJrbXNpXCJdIiwiYXBwaWQiOiI0NGU4YzdkZC02YTdhLTQ4YWMtYWIwZC04YWU4NWQyYWI3YTUiLCJ0aWQiOiIxY2RmMWQ3Yy1jYTg1LTQ1YzctYjFhNi0wZDE5N2FhMDdkYzUiLCJ1cG4iOiJvbkBtYWlsLm16ci5tZSIsInB1aWQiOiIxMDAzN0ZGRUFFQkY5OURFIiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MTAwMzdmZmVhZWJmOTlkZUBsaXZlLmNvbSIsInNjcCI6ImFsbGZpbGVzLndyaXRlIGFsbHByb2ZpbGVzLnJlYWQiLCJ0dCI6IjIiLCJ1c2VQZXJzaXN0ZW50Q29va2llIjpudWxsfQ.WU1iY2h5MzhZQ0w1dDlqeGtZaTc3OHgrZW43MlZXUVJZQ0xsOXZaU2R2az0%26ApiVersion%3D2.0)
+{% endtab %}
+
+{% tab title="在线下载" %}
+## [点我在线下载(Excel函数公式整理)](https://dev.onti.net/down/CDN/Files/2019/10/13/Excel%E5%87%BD%E6%95%B0%E5%85%AC%E5%BC%8F%E6%95%B4%E7%90%86%20%281%29%281%29.docx)
+{% endtab %}
+{% endtabs %}
 
 1、提取员工生日： 【 **注：" " 为小写 】**
 
