@@ -1,7 +1,11 @@
 # Table of contents
 
 * [简介](README.md)
-* [软件开发](software-development.md)
+* [软件开发](software-development/README.md)
+  * [MySql](software-development/mysql.md)
+  * [JavaScript](software-development/javascript.md)
+  * [Html](software-development/html.md)
+  * [Java](software-development/java.md)
 * [软件交互](software-interaction.md)
 * [电子商务](ec.md)
 * [环境艺术设计](environmental-art-design.md)
