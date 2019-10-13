@@ -17,6 +17,7 @@
   * [计算机等级](university-research/ncre/README.md)
     * [国家计算机二级c语言历年真题及答案](university-research/ncre/guo-jia-ji-suan-ji-er-jicyu-yan-li-nian-zhen-ti-ji-da-an.md)
   * [大学英语等级](university-research/cet/README.md)
+    * [大学英语四级必背单词词汇表](university-research/cet/vocabulary-for-college-english-test-band-4.md)
     * [cet-四六级翻译技巧](university-research/cet/cet-4-and-cet-6-translation-skills.md)
     * [四六级必备基础词](university-research/cet/cet-4-6-basic-words.md)
 * [计算机基础](pc-base/README.md)
