@@ -21,6 +21,7 @@
     * [国家计算机二级MS-Office计算机选择题题库](university-research/ncre/national-computer-rank-examination-level-2-ms-office-computer-multiple-choice-question-database.md)
     * [国家计算机二级c语言历年真题及答案](university-research/ncre/guo-jia-ji-suan-ji-er-jicyu-yan-li-nian-zhen-ti-ji-da-an.md)
   * [大学英语等级](university-research/cet/README.md)
+    * [英语作文万能句子总结版](university-research/cet/english-composition-omnipotent-sentence-summary-edition.md)
     * [英语四六级范文18篇](university-research/cet/english-46-6-18.md)
     * [英语四级常用词组](university-research/cet/common-phrases-in-cet-4.md)
     * [四六级冲刺必备-精选作文21篇](university-research/cet/si-liu-ji-chong-ci-bi-bei-jing-xuan-zuo-wen-21-pian.md)
