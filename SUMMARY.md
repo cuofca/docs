@@ -39,5 +39,6 @@
 * [常见问题](help/README.md)
   * [手机浏览问题](help/mobile-browsing-problem.md)
   * [电脑浏览问题](help/dian-nao-liu-lan-wen-ti.md)
-* [关于我们](about.md)
+* [关于我们](about/README.md)
+  * [关于本站](about/on-this-site.md)
 
