@@ -1,14 +1,14 @@
-# 旅游英语口语大全(有这个就够了)
+# 旅游英语口语大全\(有这个就够了\)
 
 {% tabs %}
 {% tab title="在线下载" %}
-## [点我在线下载(旅游英语口语大全(有这个就够了))](https://dev.onti.net/down/CDN/Files/2019/10/14/%E6%97%85%E6%B8%B8%E8%8B%B1%E8%AF%AD%E5%8F%A3%E8%AF%AD%E5%A4%A7%E5%85%A8%28%E6%9C%89%E8%BF%99%E4%B8%AA%E5%B0%B1%E5%A4%9F%E4%BA%86%29.doc)
+## [点我在线下载\(旅游英语口语大全\(有这个就够了\)\)](https://dev.onti.net/down/CDN/Files/2019/10/14/%E6%97%85%E6%B8%B8%E8%8B%B1%E8%AF%AD%E5%8F%A3%E8%AF%AD%E5%A4%A7%E5%85%A8%28%E6%9C%89%E8%BF%99%E4%B8%AA%E5%B0%B1%E5%A4%9F%E4%BA%86%29.doc)
 {% endtab %}
 {% endtabs %}
 
 ### 紧急情况用语
 
-I&#39;ve lost my passport.
+I've lost my passport.
 
 我的护照丢拉
 
@@ -32,8 +32,6 @@ I＇m in a hurry 我时间很急
 
 I＇m lost 我迷路了
 
-
-
 ### 基本语篇
 
 谢谢！—— Thank you.
@@ -54,13 +52,13 @@ I＇m lost 我迷路了
 
 初次见面问好。—— How do you do!
 
-很高兴见到你。—— (It&#39;s) nice to meet you.
+很高兴见到你。—— \(It's\) nice to meet you.
 
 请问您从哪来。－－Where are you from?
 
 请问贵姓。－－Can I have your name?
 
-我叫...。—— My name is ... (I&#39;m ...)
+我叫...。—— My name is ... \(I'm ...\)
 
 很高兴认识你。—— It was a pleasure meeting you.
 
@@ -76,29 +74,23 @@ I＇m lost 我迷路了
 
 我希望没事。—— I hope nothing is wrong.
 
-怎么了？—— What&#39;s the matter?
+怎么了？—— What's the matter?
 
 糟糕，严重吗？—— Oh, no! Is it serious?
 
-我真为你难过。—— I&#39;m sorry for you.
+我真为你难过。—— I'm sorry for you.
 
 一路平安，走好。—— Have a safe trip home.
 
 方向：
 
-East 东 South 南 West 西 North 北
-Left 左 Right 右
-Straight on 往 前 直 去
-There 那 儿 Front 前 方 Back 后 方 Side 侧 旁
-Before 之 前 After 之 后
-First left/right 第 一 个 转 左 ／ 右 的 路
+East 东 South 南 West 西 North 北 Left 左 Right 右 Straight on 往 前 直 去 There 那 儿 Front 前 方 Back 后 方 Side 侧 旁 Before 之 前 After 之 后 First left/right 第 一 个 转 左 ／ 右 的 路
 
 ### 二、请问如何前往 ...
 
 Excuse me, How do I get to the ....... ?
 
 请 问 如 何 前 往 ¨ ¨ ¨ ？
-
 
 How do I get to the airport?
 
@@ -110,18 +102,15 @@ How do I get to the bus station?
 
 How do I get to the metro station?
 
- 请 问 如 何 前 往 地 下 铁 路 站 ？
-（ Metro 乃 欧 洲 常 用 字 ）
+请 问 如 何 前 往 地 下 铁 路 站 ？ （ Metro 乃 欧 洲 常 用 字 ）
 
 How do I get to the subway station?
 
-请 问 如 何 前 往 地 下 铁 路 站 ？
-（ Subway 乃 北 美 洲 常 用 字 ）
+请 问 如 何 前 往 地 下 铁 路 站 ？ （ Subway 乃 北 美 洲 常 用 字 ）
 
 How do I get to the underground station?
 
-请 问 如 何 前 往 地 下 铁 路 站 ？
-（ underground 乃 英 国 常 用 字 ）
+请 问 如 何 前 往 地 下 铁 路 站 ？ （ underground 乃 英 国 常 用 字 ）
 
 How do I get to the train station?
 
@@ -137,19 +126,17 @@ How do I get to the police station?
 
 How do I get to the post office?
 
- 请 问 如 何 前 往 邮 政 局 ？
+请 问 如 何 前 往 邮 政 局 ？
 
 How do I get to the tourist information office?
 
- 请 问 如 何 前 往 旅 游 资 讯 局 ？
-
-
+请 问 如 何 前 往 旅 游 资 讯 局 ？
 
 ### 三、请问附近 ...
 
 Excuse me, Is there ....... near by?
 
- 请 问 附 近 有 没 有 ...？
+请 问 附 近 有 没 有 ...？
 
 Is there a baker near by?
 
@@ -165,7 +152,7 @@ Is there a bar near by?
 
 Is there a bus stop near by?
 
- 请 问 附 近 有 没 有 公 车 站 ？
+请 问 附 近 有 没 有 公 车 站 ？
 
 Is there a cafe near by?
 
@@ -173,19 +160,19 @@ Is there a cafe near by?
 
 Is there a cake shop near by?
 
- 请 问 附 近 有 没 有 西 饼 店 ？
+请 问 附 近 有 没 有 西 饼 店 ？
 
 Is there a change bureau near by?
 
- 请 问 附 近 有 没 有 找 换 店
+请 问 附 近 有 没 有 找 换 店
 
-Is there a chemist&#39;s near by?
+Is there a chemist's near by?
 
 请 问 附 近 有 没 有 药 剂 师 ？
 
 Is there a department store near by?
 
- 请 问 附 近 有 没 有 百 货 公 司
+请 问 附 近 有 没 有 百 货 公 司
 
 Is there a disco near by?
 
@@ -193,7 +180,7 @@ Is there a disco near by?
 
 Is there a hospital nearby?
 
- 请 问 附 近 有 没 有 医 院 ？
+请 问 附 近 有 没 有 医 院 ？
 
 Is there a night club near by?
 
@@ -215,11 +202,9 @@ Is there a telephone near by?
 
 请 问 附 近 有 没 有 电 话 ？
 
-
-
 Is there a travel agent near by?
 
- 请 问 附 近 有 没 有 旅 游 社 ？
+请 问 附 近 有 没 有 旅 游 社 ？
 
 Is there a youth hostel near by?
 
@@ -251,7 +236,7 @@ Is there an airport bus（交通工具）to the city（目的地）?
 
 这里有从机场去市中心的巴士吗？
 
-Where is the bus stop (taxi stand) ?
+Where is the bus stop \(taxi stand\) ?
 
 巴士车站在哪里？
 
@@ -298,8 +283,6 @@ Where can I get a ticket ?
 Could you tell me when we get there ?
 
 请问几点能够到达那里。
-
-
 
 Is it far from here?
 
@@ -357,8 +340,6 @@ How much is the entrance fee?
 
 门票多少钱？
 
-
-
 ### 购物
 
 How late the department stores are open?
@@ -409,7 +390,7 @@ What time do stores open?
 
 什么时候商店开始营业？
 
-I&#39;m just looking.thank you
+I'm just looking.thank you
 
 谢谢，我只是看看
 
@@ -417,7 +398,7 @@ Do you have sweaters?
 
 你有毛线衫吗？
 
-I&#39;d like to see this
+I'd like to see this
 
 我想看看这个
 
@@ -433,7 +414,7 @@ Do you have one like this?
 
 你有像这个一样的吗？
 
-I&#39;d like the one in the window
+I'd like the one in the window
 
 我想要个橱窗里的
 
@@ -457,7 +438,7 @@ Do you have a red one?
 
 有红色的吗？
 
-This is not what I&#39;m looking for
+This is not what I'm looking for
 
 这不是我要找的
 
@@ -485,15 +466,15 @@ This is just my size.
 
 这就是我的号
 
-It doesn&#39;t fit
+It doesn't fit
 
 这个不适合
 
-This is too short (long/tight/loose)
+This is too short \(long/tight/loose\)
 
 太短拉（长/紧/松）
 
-It&#39;s too expensive for me
+It's too expensive for me
 
 太贵拉
 
@@ -509,11 +490,11 @@ Can I get a little discount?
 
 我能得到些折扣吗？
 
-I&#39;ll take this
+I'll take this
 
 我要这个
 
-I&#39;d like three same as this.
+I'd like three same as this.
 
 我要3个这样的
 
@@ -529,7 +510,7 @@ Anything else?
 
 还有其他的吗？
 
-No. that&#39;s all
+No. that's all
 
 不，够拉
 
@@ -537,7 +518,7 @@ Can I have a paper bag?
 
 能给我个纸带吗？
 
-I&#39;ll take this
+I'll take this
 
 我要带着这个
 
@@ -553,7 +534,7 @@ Can I have a receipt, please
 
 能给我个收条吗？
 
-I don&#39;t have my change back yet.
+I don't have my change back yet.
 
 还没有找我钱呢
 
@@ -589,7 +570,7 @@ Could you change it for a new one?
 
 能换个新的吗？
 
-I&#39;d like to return this
+I'd like to return this
 
 我想退掉它
 
@@ -597,29 +578,27 @@ Can I have a refund?
 
 能退给我钱吗？
 
-
-
 ### 餐厅
 
 挑选位子：
 
-We&#39;d prefer a table by the window.
+We'd prefer a table by the window.
 
 （我们喜欢靠窗的桌位。）
 
-We&#39;d like to sit by the window.
+We'd like to sit by the window.
 
 （我们想要坐在窗边。）
 
-We&#39;d like to sit in the nonsmoking area.
+We'd like to sit in the nonsmoking area.
 
 （我们想要坐在非吸烟区。）
 
-We&#39;d like a smoking table.
+We'd like a smoking table.
 
 （我们想要吸烟区的桌位。）
 
-I&#39;d like a quiet corner, if possible.
+I'd like a quiet corner, if possible.
 
 （我想要安静的角落，如果可能的话。）
 
@@ -629,17 +608,13 @@ Could we have a table close to the band
 
 人数：
 
-We are a group of four.
-（我们有四个人。）
+We are a group of four. （我们有四个人。）
 
-There will be three of us.
-（我们有三个人。）
-
-
+There will be three of us. （我们有三个人。）
 
 ### 点餐：
 
-I&#39;d like to have some local food.
+I'd like to have some local food.
 
 我想尝试一下当地食物。
 
@@ -655,7 +630,7 @@ Can I have the same dish as that？
 
 我可以点与那份相同的餐吗？
 
-What do you have for today&#39;s special?
+What do you have for today's special?
 
 今天的推荐餐是什么?
 
@@ -669,7 +644,7 @@ Could you tell me how to eat this？
 
 请告诉我要如何食用这道菜？
 
-I&#39;d like a glass of water, please.
+I'd like a glass of water, please.
 
 请给我一杯水。
 
@@ -677,7 +652,7 @@ May I have some more bread, please.
 
 请再给我一些面包。
 
-I&#39;d like a dessert, please.
+I'd like a dessert, please.
 
 请给我一些甜点。
 
@@ -685,7 +660,7 @@ What do you have for dessert？
 
 甜点有哪几种？
 
-My order hasn&#39;t come yet.
+My order hasn't come yet.
 
 我点的食物还没来。
 
@@ -733,11 +708,9 @@ May I have the receipt, please.
 
 请给我收据。
 
-
-
 速食餐厅用餐
 
-Will you be eating here or is this to go (take out)？
+Will you be eating here or is this to go \(take out\)？
 
 在这用餐或带走？
 
@@ -753,11 +726,11 @@ Can I take this seat？
 
 我可以坐这个位子吗？
 
-Where can I get  a  knife and fork？
+Where can I get a knife and fork？
 
 我在哪可以拿到刀与叉？
 
-（吸管：straw   筷子：chopsticks）
+（吸管：straw 筷子：chopsticks）
 
 A sandwich,please.
 
@@ -767,7 +740,7 @@ Whole wheat,please.
 
 请给我全麦面包
 
-I&#39;ll have a small hamburger,milk,and one large order of French fries.
+I'll have a small hamburger,milk,and one large order of French fries.
 
 请给我一个小汉堡、牛奶和一份大份薯条。
 
@@ -775,13 +748,9 @@ Can I have a hot dog,please？
 
 请给我一份热狗。
 
-I&#39;ll eat here.
+I'll eat here.
 
 在这用餐。
-
-
-
-
 
 ### 食物：
 
@@ -911,7 +880,7 @@ I&#39;ll eat here.
 
 Starters
 
-Hord&#39;euvres
+Hord'euvres
 
 2、汤Soups
 
@@ -943,55 +912,55 @@ Hord&#39;euvres
 
 ### 烹调方法
 
-1、煎Fried                      2、炸deep-fried
+1、煎Fried 2、炸deep-fried
 
-3、炒Saute                      4、煮Boil
+3、炒Saute 4、煮Boil
 
-5、焖Braise                     6、烩Stew
+5、焖Braise 6、烩Stew
 
-7、烤Roast                      8、焗Bake
+7、烤Roast 8、焗Bake
 
-9、铁扒Grill                    10、串烧Broil
+9、铁扒Grill 10、串烧Broil
 
 ### 酒店早餐英语口语
 
-水果: 西瓜Water melon                调料: 方糖Sugar
+水果: 西瓜Water melon 调料: 方糖Sugar
 
-西红柿Tomato                        盐Salt
+西红柿Tomato 盐Salt
 
-香蕉Banana                          酱油Soy sauce
+香蕉Banana 酱油Soy sauce
 
-梨Pear                              果酱Jam
+梨Pear 果酱Jam
 
-橙Orange                            椒盐Pepper
+橙Orange 椒盐Pepper
 
-葡萄Grape                           醋Vinegar
+葡萄Grape 醋Vinegar
 
 黄油Butter
 
 点心: 蛋糕Cake
 
-煎饺Fried dumpling                双面煎蛋Fried over
+煎饺Fried dumpling 双面煎蛋Fried over
 
-油条Deep-fried dough sticks         单面煎蛋Sunny side up
+油条Deep-fried dough sticks 单面煎蛋Sunny side up
 
-肉包Steamed stuffed buns           咸鸭蛋Salt duck&#39;s egg
+肉包Steamed stuffed buns 咸鸭蛋Salt duck's egg
 
-夹馅面包Bread sandwich            烤面包Toast
+夹馅面包Bread sandwich 烤面包Toast
 
-炒饭Fried rice                     炒面Fried Noodles
+炒饭Fried rice 炒面Fried Noodles
 
 稀饭Rice grud
 
 饮料:
 
-牛奶Milk                         咖啡Coffee
+牛奶Milk 咖啡Coffee
 
-豆浆Saybean milk                  橙汁Orange juice
+豆浆Saybean milk 橙汁Orange juice
 
-黑咖Blak coffee                    奶咖White coffee
+黑咖Blak coffee 奶咖White coffee
 
-红茶Red tea                       绿茶Green tea
+红茶Red tea 绿茶Green tea
 
 1.Welcome to our restaurant.
 
@@ -1005,7 +974,7 @@ Hord&#39;euvres
 
 不用谢。
 
-4.I&#39;m sorry, It&#39;s my fault.
+4.I'm sorry, It's my fault.
 
 很抱歉，那是我的错。
 
@@ -1017,7 +986,7 @@ Hord&#39;euvres
 
 请这边走。
 
-7.I&#39;m afraid, You should pay it extra.
+7.I'm afraid, You should pay it extra.
 
 对不起，恐怕这个要额外付费。
 
@@ -1035,7 +1004,7 @@ Hord&#39;euvres
 
 ### 住宿篇
 
-I&#39;ll arrive late, but please keep my reservation.
+I'll arrive late, but please keep my reservation.
 
 我會晚一点到达，请保留所预订的房间。
 
@@ -1047,17 +1016,17 @@ My name is ……
 
 我的名字是……
 
-I&#39;d like a quiet room.
+I'd like a quiet room.
 
 我想要一间安静一点的房间。
 
-I&#39;d like a room on the upper level.
+I'd like a room on the upper level.
 
 我想要楼上的房间。
 
-I&#39;d like a room with a nice view (a balcony).
+I'd like a room with a nice view \(a balcony\).
 
-我想要一间视野好(有阳台)的房间。
+我想要一间视野好\(有阳台\)的房间。
 
 Is hot water available any time?
 
@@ -1067,11 +1036,11 @@ May I see the room?
 
 我可以看一看房间吗?
 
-Do you have anything bigger (better/cheaper)?
+Do you have anything bigger \(better/cheaper\)?
 
-是否还有更大的(更好的/更便宜的)房间?
+是否还有更大的\(更好的/更便宜的\)房间?
 
-I&#39;ll take this room.
+I'll take this room.
 
 我要订这间房间。
 
@@ -1079,11 +1048,9 @@ Would you fill in this registration form?
 
 麻烦填写这张住宿登记表。
 
-Do you accept credit crads(traveler&#39;s checks)?
+Do you accept credit crads\(traveler's checks\)?
 
-这里可使用信用卡(旅行支票)吗?
-
-
+这里可使用信用卡\(旅行支票\)吗?
 
 Could you keep my valuables?
 
@@ -1101,35 +1068,33 @@ What time can I have breakfast?
 
 早餐几点开始供应?
 
-Is there a beauty salon(barber shop)?
+Is there a beauty salon\(barber shop\)?
 
-旅馆内有美容院(理发院)吗?
+旅馆内有美容院\(理发院\)吗?
 
-Can I have a card with the hotel&#39;s address?
+Can I have a card with the hotel's address?
 
 是否可给我一张有旅馆地址的名片?
 
 Where is the nearest subway station?
 
- 最近的地铁站在那里?
+最近的地铁站在那里?
 
 Can I get a ticket for the sight-seeing bus here?
 
 是否可在此购买观光巴士券?
 
-
-
 ### 出国旅游搭乘飞机常用英语（转载）
 
-| 机场指示牌
+\| 机场指示牌
 
 | 中文 | 英文 | 中文 | 英文 |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | 机场费 | airport fee | 出站（出港、离开） | departures |
 | --- | --- | --- | --- |
 | 国际机场 | international airport | 登机手续办理 | check-in |
 | --- | --- | --- | --- |
-| 国内机场 | domestic airport  | 登机牌 | boarding pass (card) |
+| 国内机场 | domestic airport | 登机牌 | boarding pass \(card\) |
 | --- | --- | --- | --- |
 | 机场候机楼 | airport terminal | 护照检查处 | passport control immigration |
 | --- | --- | --- | --- |
@@ -1145,7 +1110,7 @@ Can I get a ticket for the sight-seeing bus here?
 | --- | --- | --- | --- |
 | 出口 | exit; out; way out | 过境 | transit |
 | --- | --- | --- | --- |
-| 进站(进港、到达） | arrivals | 报关物品 | goods to declare |
+| 进站\(进港、到达） | arrivals | 报关物品 | goods to declare |
 | --- | --- | --- | --- |
 | 不需报关 | nothing to declare | 贵宾室 | V. I. P. room |
 | --- | --- | --- | --- |
@@ -1155,31 +1120,31 @@ Can I get a ticket for the sight-seeing bus here?
 | --- | --- | --- | --- |
 | 候机室 | departure lounge | 出租车 | taxi |
 | --- | --- | --- | --- |
-| 航班号 | FLT No (flight number) | 出租车乘车点 | Taxi pick-up point |
+| 航班号 | FLT No \(flight number\) | 出租车乘车点 | Taxi pick-up point |
 | --- | --- | --- | --- |
 | 来自...... | arriving from | 大轿车乘车点 | coach pick-up point |
 | --- | --- | --- | --- |
-| 预计时间 | scheduled time (SCHED) | 航空公司汽车服务处 | airline coach service |
+| 预计时间 | scheduled time \(SCHED\) | 航空公司汽车服务处 | airline coach service |
 | --- | --- | --- | --- |
-| 实际时间 | actual | 租车处(旅客自己驾车) | car hire |
+| 实际时间 | actual | 租车处\(旅客自己驾车\) | car hire |
 | --- | --- | --- | --- |
 | 已降落 | landed | 公共汽车 | bus; coach service |
 | --- | --- | --- | --- |
-| 前往...... | departure to  | 公用电话 | public phone; telephone |
+| 前往...... | departure to | 公用电话 | public phone; telephone |
 | --- | --- | --- | --- |
 | 起飞时间 | departure time | 厕所 | toilet; W. C; lavatories; rest room |
 | --- | --- | --- | --- |
-| 延误 | delayed | 男厕 | men&#39;s; gent&#39;s; gentlemen&#39;s |
+| 延误 | delayed | 男厕 | men's; gent's; gentlemen's |
 | --- | --- | --- | --- |
-| 登机 | boarding | 女厕 | women&#39;s; lady&#39;s |
+| 登机 | boarding | 女厕 | women's; lady's |
 | --- | --- | --- | --- |
 | 由此乘电梯前往登机 | stairs and lifts to departures | 餐厅 | restaurant |
 | --- | --- | --- | --- |
-| 迎宾处 | greeting arriving | 酒吧 | bar  |
+| 迎宾处 | greeting arriving | 酒吧 | bar |
 | --- | --- | --- | --- |
 | 由此上楼 | up; upstairs | 咖啡馆 | coffee shop; cafe |
 | --- | --- | --- | --- |
-| 由此下楼 | down; downstairs | 免税店 | duty-free shop  |
+| 由此下楼 | down; downstairs | 免税店 | duty-free shop |
 | --- | --- | --- | --- |
 | 银行 | bank | 邮局 | post office |
 | --- | --- | --- | --- |
@@ -1192,14 +1157,13 @@ Can I get a ticket for the sight-seeing bus here?
 
 ### 机票
 
-| 飞机票
-(指限定条件) | endorsements/restrictions | 前往城市 | to |
-| --- | --- | --- | --- |
-| 旅客姓名 | name of passenger | 承运人(公司) | carrier |
-| --- | --- | --- | --- |
+\| 飞机票 \(指限定条件\) \| endorsements/restrictions \| 前往城市 \| to \| \| --- \| --- \| --- \| --- \|
+
+| 旅客姓名 | name of passenger | 承运人\(公司\) | carrier |
+| :--- | :--- | :--- | :--- |
 | 旅行经停地点 | good for passage between | 航班号 | flight no. |
 | --- | --- | --- | --- |
-| 起点城市 | from | 座舱等级 | class (fare basis) |
+| 起点城市 | from | 座舱等级 | class \(fare basis\) |
 | --- | --- | --- | --- |
 | 起飞日期 | date | 机号 | plane No. |
 | --- | --- | --- | --- |
@@ -1209,28 +1173,28 @@ Can I get a ticket for the sight-seeing bus here?
 | --- | --- | --- | --- |
 | 机票确认 | ticket confirm | 非吸烟席 | non-smoking seat |
 | --- | --- | --- | --- |
-| 登机口 | gate | 　 | 　 |
+| 登机口 | gate |  |  |
 | --- | --- | --- | --- |
 
 ### 出（入）境卡
 
 | 姓 | family name | 年 | year |
-| --- | --- | --- | --- |
-| 名 | First (Given) Name | 月 | month |
+| :--- | :--- | :--- | :--- |
+| 名 | First \(Given\) Name | 月 | month |
 | --- | --- | --- | --- |
 | 性别 | sex | 偕行人数 | accompanying number |
 | --- | --- | --- | --- |
 | 男 | male | 职业 | occupation |
 | --- | --- | --- | --- |
-| 女 | female | 专业技术人员 | professionals &amp; technical |
+| 女 | female | 专业技术人员 | professionals & technical |
 | --- | --- | --- | --- |
-| 国籍 | nationality | 行政管理人员 | legislators &amp;administrators |
+| 国籍 | nationality | 行政管理人员 | legislators &administrators |
 | --- | --- | --- | --- |
 | 国籍 | country of citizenship | 办事员 | clerk |
 | --- | --- | --- | --- |
-| 护照号 | passport No. | 商业人员 | commerce (Business People) |
+| 护照号 | passport No. | 商业人员 | commerce \(Business People\) |
 | --- | --- | --- | --- |
-| 原住地 | country of Origin     (Country where you live) | 服务人员 | service |
+| 原住地 | country of Origin     \(Country where you live\) | 服务人员 | service |
 | --- | --- | --- | --- |
 | 前往目的地国 | destination country | 农民 | farmer |
 | --- | --- | --- | --- |
@@ -1246,14 +1210,14 @@ Can I get a ticket for the sight-seeing bus here?
 | --- | --- | --- | --- |
 | 城市及国家 | city and state | 日 | day |
 | --- | --- | --- | --- |
-| 出生日期 | date of Birth  (Birthdate) | 　 | 　 |
+| 出生日期 | date of Birth  \(Birthdate\) |  |  |
 | --- | --- | --- | --- |
 
- ### 签 证
+### 签 证
 
-| 姓 | surname | 失效日期(或必须在...日之前入境) | expiry date ( 或 before) |
-| --- | --- | --- | --- |
-| 名 | first (given) name | 停留期为...... | for stays of |
+| 姓 | surname | 失效日期\(或必须在...日之前入境\) | expiry date \( 或 before\) |
+| :--- | :--- | :--- | :--- |
+| 名 | first \(given\) name | 停留期为...... | for stays of |
 | --- | --- | --- | --- |
 | 性别 | sex | 10天 | ten days |
 | --- | --- | --- | --- |
@@ -1267,13 +1231,13 @@ Can I get a ticket for the sight-seeing bus here?
 | --- | --- | --- | --- |
 | 签发地 | Issue At | 3年 | three years |
 | --- | --- | --- | --- |
-| 签发日期 | Issue Date (或On) | 签证种类 | visa type(class) |
+| 签发日期 | Issue Date \(或On\) | 签证种类 | visa type\(class\) |
 | --- | --- | --- | --- |
 
- ### 日期、数字、符号
+### 日期、数字、符号
 
 | 一月 | JAN | 七月 | JUL |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | 二月 | FEB | 八月 | AUG |
 | --- | --- | --- | --- |
 | 三月 | MAR | 九月 | SEP |
@@ -1284,28 +1248,27 @@ Can I get a ticket for the sight-seeing bus here?
 | --- | --- | --- | --- |
 | 六月 | JUN | 十二月 | DEC |
 | --- | --- | --- | --- |
-| 天 | day (s) | 年 | year (s) |
+| 天 | day \(s\) | 年 | year \(s\) |
 | --- | --- | --- | --- |
-| 周 | week (s) | 1993年6月12日 | 12 Jun. 1993 |
+| 周 | week \(s\) | 1993年6月12日 | 12 Jun. 1993 |
 | --- | --- | --- | --- |
-| 月 | month (s) | 1993年6月12日 | Jun. 12, 1993 |
+| 月 | month \(s\) | 1993年6月12日 | Jun. 12, 1993 |
 | --- | --- | --- | --- |
-|   | 　 | 　 |   |
+|  |  |  |  |
 | --- | --- | --- | --- |
-
-
 
 ### 出国旅游英语总括-入关常用词
 
 作者：佚名文章来源：转载点击数：149 更新时间：2010-5-12 18:36:17
 
 | Immigration | 入境检查 | duty-free items | 免税品 |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | Passport control | 护照检查 | Quarantine | 检疫 |
 | Outgoing passenger card | 入境登记卡 | Residents | 本国居民 |
 | Ongoing passenger card | 出境登记卡 | Non-residents | 外国居民 |
 | Customs declaration card | 海关申报单 | Visa | 签证 |
 | Currency declaration | 现金申报单 | Destination | 目的地 |
-| A gift for my friend | 送给朋友的礼物 | Valid (invalid) | 有效（无效） |
+| A gift for my friend | 送给朋友的礼物 | Valid \(invalid\) | 有效（无效） |
 | Chinese medicine | 中药 | Cash | 现金 |
 | Prohibited articles | 违禁品 | Yellow card | 健康卡 |
+
