@@ -15,6 +15,7 @@
 * [经济管理](economic-administration.md)
 * [大学考证](university-research/README.md)
   * [计算机等级](university-research/ncre/README.md)
+    * [计算机一级考试试题汇总-珍贵资料](university-research/ncre/computer-level-1-examination-questions-summary-valuable-information.md)
     * [计算机一级计算机基础及WPSOffice练习题及答案](university-research/ncre/computer-level-1-basic-computer-and-wpsoffice-exercises-and-answers.md)
     * [计算机等级考试二级office知识点总结](university-research/ncre/computer-rank-examination-level-2-office-knowledge-summary.md)
     * [国家计算机二级MS-Office计算机选择题题库](university-research/ncre/national-computer-rank-examination-level-2-ms-office-computer-multiple-choice-question-database.md)
