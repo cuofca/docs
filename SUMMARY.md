@@ -15,6 +15,7 @@
 * [经济管理](economic-administration.md)
 * [大学考证](university-research/README.md)
   * [计算机等级](university-research/ncre/README.md)
+    * [国家计算机二级MS-Office计算机选择题题库](university-research/ncre/national-computer-rank-examination-level-2-ms-office-computer-multiple-choice-question-database.md)
     * [国家计算机二级c语言历年真题及答案](university-research/ncre/guo-jia-ji-suan-ji-er-jicyu-yan-li-nian-zhen-ti-ji-da-an.md)
   * [大学英语等级](university-research/cet/README.md)
     * [给大学英语四六级作文加分的100句谚语](university-research/cet/100-proverbs-plus-points-for-cet-4-and-cet-6-compositions.md)
