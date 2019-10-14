@@ -35,6 +35,8 @@
     * [Word、Excel、PPT使用技巧与实战方法大全\(2010完整版\)](pc-base/office/word-excel-ppt-use-skills-and-practical-methods-complete-2010-version.md)
     * [Excel函数公式整理](pc-base/office/excel-function-formula-arrangement.md)
 * [应用文与写作](writing.md)
-* [常见问题](help.md)
+* [常见问题](help/README.md)
+  * [手机浏览问题](help/mobile-browsing-problem.md)
+  * [电脑浏览问题](help/dian-nao-liu-lan-wen-ti.md)
 * [关于我们](about.md)
 
