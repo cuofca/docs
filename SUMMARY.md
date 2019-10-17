@@ -42,6 +42,7 @@
   * [计算机](pc-base/pc/README.md)
     * [大学计算机基础超详细知识点](pc-base/pc/university-computer-foundation-super-detailed-knowledge-point.md)
   * [PhotoShop](pc-base/photoshop/README.md)
+    * [史上最全的PS快捷键大全](pc-base/photoshop/the-most-complete-ps-shortcut-in-history.md)
     * [ps新手入门教程](pc-base/photoshop/ps-beginners-tutorial.md)
   * [Office](pc-base/office/README.md)
     * [史上最全Office快捷键，这个得收藏](pc-base/office/the-most-complete-office-shortcut-in-history.md)
