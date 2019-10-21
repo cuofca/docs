@@ -13,6 +13,7 @@
 * [建筑工程](constructional-engineering.md)
 * [会计](accountant.md)
 * [经济管理](economic-administration.md)
+* [成考](adult-test.md)
 * [大学考证](university-research/README.md)
   * [计算机等级](university-research/ncre/README.md)
     * [计算机一级考试试题汇总-珍贵资料](university-research/ncre/computer-level-1-examination-questions-summary-valuable-information.md)
